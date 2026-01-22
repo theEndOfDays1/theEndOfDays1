@@ -24,5 +24,7 @@ I’m currently in the "Building in Public" phase. After a long time in the sile
 
 *Warning: Looking at my oldest code may cause mild eye strain. I've moved on.*
 
+Check out my latest project: [CGPA Calculator](https://theendofdays1.github.io/academic-performance-tracker/)
+
 **[Find me on X](https://x.com/BomaJoseph19910) • [LinkedIn](https://www.linkedin.com/in/boma-alasomuka-471b19378) • [Instagram](https://instagram.com/balasomuka)**
 
