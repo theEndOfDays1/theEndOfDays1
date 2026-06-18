@@ -1,30 +1,22 @@
-# Why, hello there... 🙃
+# [Boma]
 
-The name is **Boma**. 
-
-I am a web developer, passionate about.....yeah, you've probably seen this many times 💔.
-
-From stunning web visuals to web tools (Widgets, Online Utilities, SPAs), to full-blown web apps—I transform great ideas into digital experiences that feel organic and perform like a dream. 
-
-I’ve spent the last few years fighting divs, bugs, algorithms, imposter syndrome, tutorial hell, and the occasional existential dread. And yes, I survive still 🙂.
+Web Developer. Making complex screens look clean and easy to use. 
 
 ---
 
-### 🛠 The Toolkit
-Okay, okay I got too confident that time, my bad 😭. 
-Now, I don't have a laundry list of technologies that I've mastered, but I do have:
+### Skills
 
-* **The Core:** HTML, CSS, JavaScript (and yes, React too).
-* **The Secret Weapon:** A very stubborn refusal to give up on a bug and very high hopes.
+* **Coding:** JavaScript(ES6+), HTML, CSS
+* **Tools:** Git, GitHub, Responsive Design
 
 ---
 
-### 🎯 The Current Mission
-I’m currently in the "Building in Public" phase. After a long time in the silent trenches, I’m here to build digital experiences with soul and backends that don't flinch. 
+### Focus
 
-*Warning: Looking at my oldest code may cause mild eye strain. I've moved on.*
+* **Architecture:** Keeping project files neat and organized.
+* **Performance:** Making sure pages load fast and run smoothly.
+* **UI/UX:** Building clear dashboards where data makes sense.
 
-Check out my latest project: [CGPA Calculator](https://theendofdays1.github.io/academic-performance-tracker/)
-
+  
 **[Find me on X](https://x.com/BomaJoseph19910) • [LinkedIn](https://www.linkedin.com/in/boma-alasomuka-471b19378) • [Instagram](https://instagram.com/balasomuka)**
 
