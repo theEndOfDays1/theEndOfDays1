@@ -1,4 +1,4 @@
-# [Boma]
+# Boma
 
 Web Developer. Making complex screens look clean and easy to use. 
 
